@@ -1,15 +1,18 @@
 
 <h1 align="center">Hello EveryOne 👋, this is Yash, </h1>
-<p align="center">A passionate web developer from National Institute of Technology Allahabad, Prayagraj.</p>
+<p align="center">I am a passionate web developer from National Institute of Technology, Allahabad (NIT Prayagraj) with a strong interest in building scalable, user-friendly, and high-performance web applications. I love solving complex problems and continuously learning new technologies to enhance my skill set.</p>
 
 
 <h3 align="left">👨‍💻 Live Projects -</h3>
-  
-   https://jobfinder-meta.vercel.app
-  
-   https://enactus-meta.vercel.app
-  
-   https://pariksha-rust.vercel.app
+
+
+[JobFinder](https://jobfinder-meta.vercel.app)
+
+[Enactus](https://enactus-meta.vercel.app)
+
+[VidyaVaani](https://vidyavaani-meta.vercel.app)
+
+[Pariksha](https://pariksha-rust.vercel.app)
 
 
 <h3 align="left">Connect with me -</h3>
