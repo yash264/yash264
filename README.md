@@ -8,7 +8,7 @@
 
 [JobFinder](https://jobfinder-meta.vercel.app)
 
-[Enactus](https://enactus-meta.vercel.app)
+[Enactus](https://enactus-mnnit2k25.netlify.app)
 
 [VidyaVaani](https://vidyavaani-meta.vercel.app)
 
