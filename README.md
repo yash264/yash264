@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me -</h3>
 <p align="left">Email : yp5094280@gmail.com</p>
+<p align="right">Linkedin : yashpandey02</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
