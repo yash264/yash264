@@ -2,6 +2,7 @@
 <h1 align="center">Hello Everyone 👋, I'm Yash</h1>
 
 <p align="center">
+  🛠️ Portfolio link <a href="https://yashpandey-mnnit.vercel.app"> https://yashpandey-mnnit.vercel.app </a> <br/>
   🎓 Student at <b>National Institute of Technology, Allahabad (NIT Prayagraj)</b> <br/>
   💻 Passionate <b>Web Developer</b> | 🚀 Tech Explorer | 🔍 Problem Solver <br/>
   🌱 Always learning new technologies to build <b>scalable, user-friendly, and high-performance applications</b>.
